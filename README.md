@@ -3,8 +3,8 @@
 啟動方式：
 
 ```powershell
-python -m pip install -r requirements.txt
-python -m streamlit run app.py
+py -m pip install -r requirements.txt
+py -m streamlit run app.py
 ```
 
 路徑
